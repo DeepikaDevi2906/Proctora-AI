@@ -1,4 +1,4 @@
-🎓Proctora AI
+# 🎓Proctora AI
 
 Proctora AI is an intelligent real-time online proctoring system that monitors exam integrity using a combination of computer vision, audio analysis, and behavioral tracking.
 The system integrates multiple AI modules such as face detection, mobile phone detection, identity verification, and liveness detection, and generates dynamic warnings using an AI agent with voice feedback.
