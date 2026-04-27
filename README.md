@@ -16,7 +16,7 @@ Features
 - Voice feedback using Web Speech API
 - Automatic exam termination on repeated violations
 
-Tech Stack
+## Tech Stack
 
 # Frontend
 - React.js
